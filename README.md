@@ -11,9 +11,6 @@ NLW Unite
 //instalando dependências 
 npm i 
 
-//eslint
-npm run lint
-
 //run
 npm run dev
 ```
