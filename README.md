@@ -15,6 +15,9 @@ npm i
 npm run dev
 ```
 
+## API
+[link](https://github.com/karenyov/nlw-unite-nodejs)
+
 # Screenshots
 <p align="center">
   <img src="https://github.com/karenyov/nlw-unite-web/blob/main/app.png" width="700">
